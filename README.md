@@ -66,4 +66,8 @@ Memberikan informasi kepada individu untuk tindakan berdasarkan data, termasuk u
 Salah satu contoh implementasi IoT menurut saya adalah menggunakan sistem pintu pagar otomatis yang dapat dikendalikan melalui aplikasi atau perangkat pintar. Pagar tersebut dapat dilengkapi dengan sensor gerak atau sensor kehadiran untuk mendeteksi orang atau kendaraan yang mendekati.
 
 Dengan menggunakan IoT, pemilik rumah dapat membuka atau menutup pagar secara otomatis melalui aplikasi di smartphone mereka. Selain itu, sensor keamanan tambahan seperti kamera CCTV yang terhubung ke sistem IoT dapat memberikan pemantauan visual untuk keamanan tambahan. Semua data dan kontrol dapat diakses dari jarak jauh melalui koneksi internet, memberikan fleksibilitas dan kemudahan penggunaan.
+* Topologi IoT Gerbang Otomatis
+![Topologi IoT Gerbang Otomatis](https://github.com/AnggaMarcelio/Tugas-1-IoT/assets/115083405/e60c1c18-519d-4475-9fc8-1eecb663eac6)
+
+* Ilustraasi gerbang Otomatis
 ![IMG_20240118_101708](https://github.com/AnggaMarcelio/Tugas-1-IoT/assets/115083405/ab264d94-ef66-4b21-8d93-c9e91f334bb0)
